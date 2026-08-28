@@ -1,0 +1,270 @@
+Groww Liquid Fund Direct Growth - Growwmf
+Skip to main content
+Groww Liquid Fund Direct Growth
+Debt
+Liquid
+Moderate Risk
+₹
+2746.3306
+NAV
+as on 27 Aug 2026
+1Y
+3Y
+5Y
+ALL
+Holdings (
+18
+)
+Name
+Sector
+Instrument
+Assets
+Canara Bank CD 15-Sept-2026
+others
+Certificate of Deposits
+9.2%
+HDFC Bank Ltd CD 25-Aug-2026
+others
+Certificate of Deposits
+8.9%
+ICICI Bank Ltd CD 15-Sep-2026
+others
+Certificate of Deposits
+7.7%
+Punjab National Bank CD 15-Sep-2026
+others
+Certificate of Deposits
+7.7%
+NABARD CP 15-Sep-2026
+others
+Commercial Papers
+7.7%
+Kotak Mahindra Bank Ltd CD 24-Sep-2026
+others
+Certificate of Deposits
+7.7%
+91 Days Treasury Bill 29-Oct-2026
+others
+Treasury Bills
+7.6%
+SIDBI CD 27-Oct-2026
+others
+Certificate of Deposits
+7.6%
+Union Bank Of India CD 11-Sep-2026
+others
+Certificate of Deposits
+7.4%
+Bajaj Finance Limited CP 03-Sep-2026
+others
+Commercial Papers
+6.8%
+See All
+Holding analysis
+Equity / Debt / Cash Split
+Equity
+0.0
+%
+Debt
+95.7
+%
+Cash
+4.3
+%
+322.7Cr
+Debt sector allocation
+Certificate Of Deposits
+63.5
+%
+Commercial Papers
+27.0
+%
+Treasury Bills
+8.0
+%
+Non Convertible Debentures
+1.1
+%
+Tri Party Repo (Treps)
+0.4
+%
+309.0Cr
+Advanced ratios
+P/E (Price/ Earning) ratio
+Wighted average of the P/E of underlying securities. P/E is the ratio of the current share price to the company’s earnings per share.Generally, overpriced stocks have a high P/E and unpriced stocks have a low P/E.
+P/B (Price/ Book) ratio
+Wighted average of the P/B of underlying securities. It is the ratio of the current share price to the book value per share. A lower P/B could either mean the stock is undervalued or there are problems in the company fundamentals.
+Alpha
+Weighted average of the alpha of underlying securities. This indicates how a stock has performed compared to the benchmark index value. If alpha is 1, it means the stock has outperformed the benchmark by 1% and -1 means the stock has underperformed by 1%.
+Beta
+Weighted average of the beta of underlying securities. Beta measures the movement of a stock in relation to the overall market movement. If beta > 1, it means the stock is more volatile. If beta < 1, it means lower volatility.
+Sharpe ratio
+Weighted average of the Sharpe ratio of underlying securities. This helps understand the return of an investment compared to its risk. Sharpe ratio of 1 to 3 or above means greater returns from an investment but with a higher risk level.
+Sortino
+Weighted average of the sortino ratio of underlying securities to help evaluate the returns of an investment for a given level of bad risk. Higher sortino ratio, better is the investment. Sortino ratio>2 is considered to be good.
+Advanced ratios
+Top 5
+87%
+Top 20
+259%
+Understand terms
+Scheme Performance
+Annualised returns
+as on
+31 Jul 2026
+5Y
+3Y
+1Y
+Since Inception
+Groww Liquid Fund Direct Growth
+6.17%
+7.00%
+6.41%
+6.80%
+Scheme Benchmark -
+CRISIL Liquid Debt A-I Index
+6.19%
+6.80%
+6.14%
+6.71%
+Additional Benchmark -
+Crisil 1 Yr T-Bill Index
+5.67%
+6.32%
+4.21%
+6.52%
+Current value of standard investment of ₹10,000
+as on
+31 Jul 2026
+5Y
+3Y
+1Y
+Since Inception
+Groww Liquid Fund Direct Growth
+₹13,488.10
+₹12,249.76
+₹10,640.96
+₹24,462.15
+Scheme Benchmark -
+CRISIL Liquid Debt A-I Index
+₹13,503.77
+₹12,182.17
+₹10,614.03
+₹24,179.46
+Additional Benchmark -
+Crisil 1 Yr T-Bill Index
+₹13,175.49
+₹12,017.23
+₹10,420.64
+₹25,427.84
+Please Note: Returns greater than 1 year period are compounded annualized returns (CAGR). Load is not taken into consideration. Different plans shall have different expense structure. In case the start/end date is non business day, the NAV of previous working day is used for computation. Past performance may or may not be sustained in future and its not a guarantee of any future returns.
+The scheme is managed by Kaustubh Sule and Wilfred Peter Gonsalves (FMs). Please refer "Fund Management" section below for details of other schemes currently managed by the Fund Manager(s).
+Understand terms
+Expense ratio
+A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of fund's assets used for administrative, management, advertising, and other expenses.
+Tax
+A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+Exit load
+A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+Stamp duty
+A form of tax payable for the purchase or sale of an asset or security.
+Expense ratio, exit load and tax
+Expense ratio:
+0.22%
+Inclusive of GST
+Exit load
+• 0.007% if exited within 0 to 1 days from the purchase NAV date
+• 0.0065% if exited within 2 days from the purchase NAV date
+• 0.006% if exited within 3 days from the purchase NAV date
+• 0.0055% if exited within 4 days from the purchase NAV date
+• 0.005% if exited within 5 days from the purchase NAV date
+• 0.0045% if exited within 6 days from the purchase NAV date
+• Nil - if exited after 7 Days from the purchase NAV date
+Stamp duty on investment: 0.005%
+from July 1st 2020
+Understand terms
+Fund management
+Kaustubh Sule
+May 2023
+- Present
+View details
+About
+Kaustubh is a seasoned Senior Fund Manager - Debt at Groww Asset Management Limited, having joined since its inception in May 2023. With 17 years of experience in various roles, he specializes in Fixed Income Strategies, including money market, macro, and duration strategies. Kaustubh began his Investment Management career as a Fixed Income Trader at Union Bank of India's Treasury Desk. He further gained valuable expertise at Nippon Life and HDFC Life before joining Axis AMC as a Fund Manager - Fixed Income, where he managed medium-term and long-term Fixed Income strategies. He holds a B.E. in Computer Engineering from PICT, Pune University, and an MBA in Finance from VGSoM, IIT Kharagpur, providing him with a strong technical and financial background. Throughout his career, Kaustubh actively traded various fixed income instruments, including Government Securities, Corporate Bonds, Interest Rate Swaps, and Interest Rate Futures.
+Also manages these schemes
+Groww Short Term Fund Direct Growth
+Groww Dynamic Term Fund Direct Growth
+Groww Overnight Fund Direct Growth
+Groww Aggressive Hybrid Fund Direct Growth
+GROWW NIFTY 1D Rate Liquid ETF
+Groww Gilt Fund Direct Growth
+Groww Multi Asset Allocation Fund Direct Growth
+Groww Money Market Fund Direct Growth
+Wilfred Peter Gonsalves
+May 2026
+- Present
+View details
+About
+Wilfred has over 7 years of experience in Investment Management, with a strong background in credit analysis, macroeconomics, fixed income, and gold. At Whiteoak Capital, where he worked for 1.5 years, Wilfred specialized as a dealer in Fixed Income securities and supported Gold ETF units trading. Prior to this, he served as a Fixed Income Dealer at Edelweiss Tokio Life Insurance for 3 years, where his responsibilities included Fixed Income trading and portfolio management. Additionally, at L&T Finance, Wilfred was part of the Deal Origination team for 2 years, conducting in-depth credit analysis to support investment decisions.
+Also manages these schemes
+Groww Short Term Fund Direct Growth
+Groww Dynamic Term Fund Direct Growth
+Groww Aggressive Hybrid Fund Direct Growth
+Groww Gold ETF
+Groww Gold ETF FoF Direct - Growth
+Groww Gilt Fund Direct Growth
+Groww Silver ETF
+Groww Silver ETF FOF Direct Growth
+Groww Multi Asset Allocation Fund Direct Growth
+Groww Money Market Fund Direct Growth
+Groww Arbitrage Fund  Direct Growth
+Investment objective
+The scheme aims to generate reasonable returns by constructing a portfolio of Debt and Money Market Instruments with a maturity period up to 91 days.
+The scheme aims to generate reasonable returns by constructing a portfolio of Debt and Money Market Instruments with a maturity period up to 91 days. The scheme will offer a high level of liquidity and returns in line with the low level of risk in the portfolio. However, there is no assurance that the investment objective of the scheme will be realized and the Scheme does not assure or guarantee any returns.
+...Read more
+Fund benchmark
+CRISIL Liquid Debt A-I Index
+Riskometer
+This product is suitable for investors who are seeking*
+High level of liquidity with commensurate returns over short term.
+Through investment in money market & debt securities with maturity of upto 91days.
+Low to Moderate Risk
+*Investors should consult their financial advisers if in doubt about whether the product is suitable for them
+Scheme Riskometer
+Groww Liquid Fund Direct Growth
+The Scheme Risk-o-meter is at
+Moderate
+Scheme risk level Low
+Scheme risk level Low to Moderate
+Scheme risk level Moderate (current)
+Scheme risk level Moderately High
+Scheme risk level High
+Scheme risk level Very High
+Benchmark Riskometer
+CRISIL Liquid Debt A-I Index
+The Benchmark Risk-o-meter is at
+Low to Moderate
+Benchmark risk level Low
+Benchmark risk level Low to Moderate (current)
+Benchmark risk level Moderate
+Benchmark risk level Moderately High
+Benchmark risk level High
+Benchmark risk level Very High
+Other plans in the same fund
+Names
+Groww Liquid Fund Regular Growth
+Groww Liquid Fund Direct IDCW Monthly
+Groww Liquid Fund Regular IDCW Monthly
+Min. SIP amount
+₹500
+Min. Lumpsum amount
+₹500
+Invest now
+Invest via
+Digital Platforms
+MFDs
+KFin Branches
+Groww
+Paytm Money
+Coin
+PhonePe
+Angel One

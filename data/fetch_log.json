@@ -1,0 +1,177 @@
+[
+  {
+    "id": "amc-about",
+    "url": "https://growwmf.in/about-us",
+    "status": "ok",
+    "chars": 2055,
+    "error": null
+  },
+  {
+    "id": "scheme-largecap",
+    "url": "https://www.growwmf.in/mutual-funds/groww-large-cap-fund-direct-growth",
+    "status": "ok",
+    "chars": 10080,
+    "error": null
+  },
+  {
+    "id": "scheme-multicap",
+    "url": "https://www.growwmf.in/mutual-funds/groww-multicap-fund-direct-growth",
+    "status": "ok",
+    "chars": 9933,
+    "error": null
+  },
+  {
+    "id": "scheme-elss",
+    "url": "https://www.growwmf.in/mutual-funds/groww-elss-tax-saver-fund-direct-growth",
+    "status": "ok",
+    "chars": 8920,
+    "error": null
+  },
+  {
+    "id": "scheme-liquid",
+    "url": "https://www.growwmf.in/mutual-funds/groww-liquid-fund-direct-growth",
+    "status": "ok",
+    "chars": 9468,
+    "error": null
+  },
+  {
+    "id": "sid-largecap",
+    "url": "https://assets-netstorage.growwmf.in/compliance_docs/Downloads/SID/SID_Groww%20Large%20Cap%20Fund%20.pdf",
+    "status": "failed",
+    "chars": 0,
+    "error": "HTTP 404"
+  },
+  {
+    "id": "sid-multicap",
+    "url": "https://assets-netstorage.growwmf.in/compliance_docs/Downloads/SID/SID_Groww%20Multicap%20Fund.pdf",
+    "status": "failed",
+    "chars": 0,
+    "error": "HTTP 404"
+  },
+  {
+    "id": "kim-multicap",
+    "url": "https://assets-netstorage.growwmf.in/compliance_docs/Downloads/KIM/KIM_Groww%20Multicap%20Fund.pdf",
+    "status": "failed",
+    "chars": 0,
+    "error": "HTTP 404"
+  },
+  {
+    "id": "sid-elss",
+    "url": "https://assets-netstorage.growwmf.in/compliance_docs/Downloads/SID/SID_Groww%20ELSS%20Tax%20Saver%20Fund.pdf",
+    "status": "failed",
+    "chars": 0,
+    "error": "HTTP 404"
+  },
+  {
+    "id": "kim-elss",
+    "url": "https://assets-netstorage.growwmf.in/compliance_docs/Downloads/KIM/KIM_Groww%20ELSS%20Tax%20Saver%20Fund.pdf",
+    "status": "failed",
+    "chars": 0,
+    "error": "HTTP 404"
+  },
+  {
+    "id": "sid-liquid",
+    "url": "https://assets-netstorage.growwmf.in/compliance_docs/Downloads/SID/SID_Groww%20Liquid%20Fund.pdf",
+    "status": "failed",
+    "chars": 0,
+    "error": "HTTP 404"
+  },
+  {
+    "id": "factsheet",
+    "url": "https://assets-netstorage.growwmf.in/compliance_docs/Downloads/Fact%20Sheet/2025%20-%202026/Monthly%20Factsheet%20-%20Jan%2026.pdf",
+    "status": "ok",
+    "chars": 384174,
+    "error": null
+  },
+  {
+    "id": "investor-faqs",
+    "url": "https://cms-resources.growwmf.in/uploads/FA_Qs_for_Investors_Valid_Handle_21419eab26.pdf",
+    "status": "ok",
+    "chars": 1856,
+    "error": null
+  },
+  {
+    "id": "kyc-faqs",
+    "url": "https://growwmf.in/new-kyc-regulations",
+    "status": "ok",
+    "chars": 6239,
+    "error": null
+  },
+  {
+    "id": "capital-gains-guide",
+    "url": "https://groww.in/blog/how-to-get-capital-gains-statement-for-mutual-fund-investments",
+    "status": "ok",
+    "chars": 15749,
+    "error": null
+  },
+  {
+    "id": "amfi-riskometer-levels",
+    "url": "https://www.mutualfundssahihai.com/en/what-riskometer-and-what-are-different-levels",
+    "status": "ok",
+    "chars": 2065,
+    "error": null
+  },
+  {
+    "id": "amfi-riskometer-derived",
+    "url": "https://www.mutualfundssahihai.com/en/how-riskometer-scheme-derived",
+    "status": "ok",
+    "chars": 3286,
+    "error": null
+  },
+  {
+    "id": "amfi-tri",
+    "url": "https://www.mutualfundssahihai.com/en/what-total-return-index-tri-mutual-fund",
+    "status": "ok",
+    "chars": 1726,
+    "error": null
+  },
+  {
+    "id": "amfi-lockin",
+    "url": "https://www.mutualfundssahihai.com/en/what-is-lock-in-period",
+    "status": "ok",
+    "chars": 2667,
+    "error": null
+  },
+  {
+    "id": "amfi-expenses",
+    "url": "https://www.mutualfundssahihai.com/en/what-are-expenses-incurred-mutual-fund-scheme",
+    "status": "ok",
+    "chars": 1173,
+    "error": null
+  },
+  {
+    "id": "amfi-loads",
+    "url": "https://www.mutualfundssahihai.com/en/what-are-loads",
+    "status": "ok",
+    "chars": 1401,
+    "error": null
+  },
+  {
+    "id": "amfi-benchmarks",
+    "url": "https://www.amfiindia.com/otherdata/listofbenchmarkindices",
+    "status": "ok",
+    "chars": 619,
+    "error": null
+  },
+  {
+    "id": "sebi-riskometer-circular",
+    "url": "https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html",
+    "status": "ok",
+    "chars": 267,
+    "error": null
+  },
+  {
+    "id": "sebi-investor-faqs",
+    "url": "https://www.sebi.gov.in/sebi_data/faqfiles/sep-2024/1727242783639.pdf",
+    "status": "ok",
+    "chars": 46233,
+    "error": null
+  },
+  {
+    "id": "kfintech-cas",
+    "url": "https://mfs.kfintech.com/investor/General/CapitalGainsLossAccountStatement",
+    "status": "ok",
+    "chars": 683,
+    "error": null
+  }
+]

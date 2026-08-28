@@ -1,0 +1,805 @@
+ 
+ 
+ 
+ 
+ 
+ 
+FAQs for Mutual Fund Investors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISCLAIMER • This is not a legal document. • These FAQs are prepared with a view to guide mutual 
+fund Investors on investments in mutual funds. For full particulars of laws governing the Mutual Funds 
+(MF), please refer to the Acts/Regulations/Guidelines/Circulars etc. appearing under the Legal tab of 
+SEBI website i.e. www.sebi.gov.in.  The contents of these FAQs are updated as on August 31, 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+Different investment avenues are available to investors. Mutual funds also offer good investment 
+opportunities to the investors. Like all investments, they also carry certain risks. The investors 
+should compare the risks and expected returns after adjustment of tax on various instruments 
+while taking investment decisions. The investors may seek advice from experts while making 
+investment decisions. 
+With an objective to make the investors aware of functioning of mutual funds, an attempt has been 
+made to provide information in question -answer format which may help the investors in taking 
+investment decisions. 
+1) What is a Mutual Fund? 
+ 
+Mutual fund is a mechanism for pooling money by issuing units to the investors and investing 
+investors funds in securities in accordance with objectives as disclosed in offer document. 
+Investments in securities are spread across a wide cross -section of industries and sectors and 
+thus the risk is diversified  because all stocks may not move in the same direction in the same 
+proportion at the same time. Mutual funds issue units to the investors in accordance with quantum 
+of money invested by them. Investors of mutual funds are known as unitholders. 
+The profits or losses are  shared by investors in proportion to their investments. Mutual funds 
+normally come out with a number of schemes which are launched from time to time with different 
+investment objectives. A mutual fund is required to be registered with Securities and Excha nge 
+Board of India (SEBI) before it can collect funds from the public. 
+2) What is the history of Mutual Funds in India and role of SEBI in mutual funds industry? 
+ 
+Unit Trust of India was the first mutual fund set up in India in the year 1963. In late 1980s, 
+Government allowed public sector banks and institutions to set up mutual funds. In the year 1992, 
+Securities and Exchange Board of India (SEBI) Act was passed. The objectives of SEBI are to 
+protect the interest of investors in securities and to promote the development of and to regulate 
+the securities market. 
+As far as mutual funds are concerned, SEBI formulates policies, regulates and supervises mutual 
+funds with an aim to protect the interest of the investors. SEBI notified the regulations for mutual 
+funds in 1993. Thereafter, mutual funds sponsored by private sector entities were allowed to enter 
+the capital market. The regulations were fully revised in 1996 and have been amended thereafter 
+from time to time. SEBI also issues directions through circulars to mutual funds from time to time 
+to protect the interests of investors. 
+ 
+All mutual funds whether promoted by public sector or private sector entities , including those 
+promoted by foreign entities are governed by the same set of Regulations. There is no distinction 
+in regulatory requirements for these mutual funds and all are subject to monitoring and inspections 
+by SEBI.   
+ 
+3) How is a mutual fund set up? 
+ 
+A mutual fund is set up in the form of a trust, which has sponsor, trustees, Asset Management 
+Company (AMC) and custodian. The trust is established by a sponsor or more than one sponsor 
+who is like promoter of a company. The trustees of the mutual fund hold its property for the benefit 
+of the unitholders. AMC approved by SEBI manages the funds by making investments in various 
+types of securities. Custodian, who is required to be registered with SEBI, holds the securities of 
+various schemes of the fund in its custody. Th e trustees are vested with the general power of 
+supervision and direction over AM C. They monitor the performance and compliance of SEBI 
+Regulations by the mutual fund. 
+SEBI Regulations require that at least two-thirds of the directors of trustee company should be 
+independent and should not be associated with the sponsors in any manner. Further, fifty per cent 
+of the directors in the board of AMC should be independent and should not be associated with 
+sponsor or its subsidiaries or the trustees in any manner. 
+All mutual funds are required to be registered with SEBI before they launch any scheme. 
+ 
+4) What is Net Asset Value (NAV) of a scheme? 
+ 
+NAV is the unit price of a mutual fund scheme. The performance of a particular scheme of a mutual 
+fund is denoted by Net Asset Value (NAV).  NAV indicates the price at which investors buy or 
+redeem mutual fund units. 
+NAV of a scheme is determined by dividing the net assets (Total Asset – Total Liabilities) of the 
+scheme by the total number of outstanding units on any particular date. For example, if the total 
+asset of a mutual fund scheme is INR 200 lakh and total liabilities is INR 10 lakh and 10 lakh units 
+are outstanding, then the NAV per unit of the fund is calculated as under: 
+ 
+Net asset = Total Asset – Total Liabilities 
+                = INR 200 lakh – INR 10 lakh 
+                = INR 190 lakh 
+NAV        =  Net asset/total outstanding units 
+                = INR 19 (i.e.190 lakh/10 lakh).  
+ 
+NAV of a fund changes every day as a result of changes in the market price of the securities that 
+form a part of the portfoli o. Therefore, NAV is determined on a daily basis and required to be 
+disclosed by the mutual funds on a daily basis. NAV of schemes has to be updated in accordance 
+with time lines mentioned under: 
+                                                                                                        (Timelines in Business days) 
+Sr.no. Scheme type Timeline 
+1 All schemes other than those mentioned below 11 PM on T day 
+2 For schemes having exposure to ETCDs (Exchange 
+Traded Commodity Derivatives)  9 AM on T+1 day 
+3 Fund of Funds (FoFs) schemes 10 AM on T+1 day 
+4 Schemes investing at least  80% of total assets in 
+permissible overseas investments  10 AM on T+1 day 
+5 Index funds and ETFs investing at least  80% of total 
+assets in permissible overseas investments 
+6 
+Schemes unable to disclose NAV as per timeline 
+mentioned above due to inability in capturing same day 
+valuation of underlying investments 
+Such time as per disclosure made 
+in SID along with reasons for such 
+delayed disclosure 
+ 
+T = date of transaction in mutual fund units in India 
+5) What is cut off timing and its role in determining the applicable NAV for transactions 
+in Mutual Fund scheme (s)? 
+The purchase and redemption are done at the applicable NAV. In order to ensure fairness to 
+investors, SEBI has prescribed cut-off timings which are uniformly applicable for all mutual funds. 
+These are provided below: 
+ 
+Type of Scheme  Transaction type Cut off  
+time 
+Applicable NAV 
+Liquid fund  and 
+Overnight fund 
+Purchases and 
+Switch in 
+1.30 pm  where the application is received up to 
+cut off time 1.30 p.m. on a day and 
+funds are available for utilization 
+before the cut-off time without availing 
+any credit facility, whether, intra-day or 
+otherwise – the closing NAV of the day 
+immediately preceding  the day of 
+receipt of application; 
+ where the application is received after 
+1.30 p.m. on a day and funds are 
+available for utilization on the same 
+day without availing any credit facility, 
+whether, intra-day or otherwise – the 
+closing NAV of the day immedi ately 
+preceding the next business day 
+ If funds are not available for utilization, 
+irrespective of the time of receipt of 
+application, the closing NAV of the day 
+immediately preceding the day on 
+which the funds are available for 
+utilization. 
+Redemptions and 
+Switch Out 
+3.00 pm  Where the application is received up to 
+3.00 pm – the closing NAV of day 
+immediately preceding the next 
+business day;  
+ Where the application is received after 
+3.00 pm – the closing NAV of the next 
+business day. 
+Equity oriented funds 
+and debt funds 
+(except liquid 
+and overnight  
+funds) 
+1. Purchases 
+and Switch in 
+2. Redemptions 
+and switch 
+out 
+3.00 pm  If application is received and funds (for 
+purchase) are available for utilization 
+before cut off time, the closing NAV of 
+the day on which the application is 
+received. 
+ If the application is received after cut 
+off time, the closing NAV of the next 
+business day will be applicable.  
+ If funds  (for purchase) are not 
+available for utilization, irrespective of 
+the receipt time of application, closing 
+NAV of the day on which the funds are 
+available for utilization will be 
+applicable. 
+Examples: Assume that in a particular week, Monday, Wednesday and Thursday are business days 
+and Tuesday is a non-business day. 
+ An investor submits an application on Monday to buy units of an equity mutual fund scheme for 
+INR 3,00,000. If an application is made on Monday and the fund gets realized on Wednesday by 
+2 pm, it will be Wednesday's NAV. If funds are realized or available for utilisation on Wednesday 
+by 5 pm, then it will be Thursday's NAV. 
+ An investor makes an application to purchase units of a liquid fund. If an application is made on 
+Monday and the fund gets realized by 1 p.m. on Monday, it will be Sunday's NAV. If it gets realized 
+by 3 pm on Monday, it will be Tuesday's NAV. If it gets realized by 10 am on Wednesday, it will 
+beTuesday's NAV. 
+ 
+6) What are the different types of mutual fund schemes? 
+ 
+Schemes according to Maturity Period: 
+ 
+A mutual fund scheme can be classified into open-ended scheme or close-ended scheme depending 
+on its maturity period. 
+Open-ended Fund/Scheme 
+ 
+An open -ended fund or scheme is one that is available for subscription and repurchase on a 
+continuous basis. These schemes do not have a fixed maturity period. Investors can conveniently buy 
+and sell units at Net Asset Value (NAV) per unit which is declared on a daily basis. The key feature of 
+open-ended scheme is liquidity. 
+Close-ended Fund/Scheme 
+ 
+A close-ended fund or scheme is one where the period of maturity of the scheme is fixed and the 
+same is specified in the offer documents e.g. KIM, SID  at the time of launch of the scheme.  The fund 
+is open for subscription only during a specified period at the time of launch of the scheme. Investors 
+can invest in the scheme at the time of the new fund offer and thereafter they can buy or sell the units 
+of the scheme on the stock exchanges where the units are listed. In order to provide an exit route to 
+the investors, some close -ended funds give an opti on of selling back the units to the mutual fund 
+through periodic repurchase at NAV related pric es and the same  options are  disclosed in the offer 
+Documents.  
+ 
+Schemes according to Investment Objective: 
+ 
+A scheme can also be classified as growth scheme, i ncome scheme or balanced scheme 
+considering its investment objective. Such schemes may be open-ended or close-ended schemes 
+as described earlier. Such schemes may be classified mainly as follows: 
+Growth/Equity Oriented Scheme 
+ 
+The aim of growth funds is to  provide capital appreciation over the medium to long - term. Such 
+schemes normally invest a major part of their corpus in equities. Such funds have comparatively 
+high risks. These schemes provide different options to the investors like dividend option, growth, 
+etc. and the investors may choose an option depending on their preferences. The investors must 
+indicate the option in the application form. The mutual funds also allow the investors to change 
+the options at a later date. Growth schemes are good for in vestors having a long -term outlook 
+seeking appreciation over a period of time. 
+Income/Debt Oriented Scheme 
+ 
+The aim of income funds is to provide regular and steady income to investors. Such schemes 
+generally invest in fixed income securities such as bonds, corporate debentures, Government 
+securities and money market instruments. Such funds are less risky compared to equity schemes. 
+ 
+However, opportunities of capital appreciation are also limited in such funds. The NAVs of such 
+funds are affected becau se of change in interest rates in the country. If the interest rates fall, 
+NAVs of such funds are likely to increase in the short run and vice versa. However, long term 
+investors may not bother about these fluctuations. 
+ 
+Balanced/Hybrid Scheme 
+ 
+The aim of balanced schemes is to provide both growth and regular income as such schemes 
+invest both in equities and fixed income securities in the proportion indicated in their offer 
+documents. These are appropriate for investors looking for moderate growth. They ge nerally 
+invest 40 -60% in equity and debt instruments. These funds are also affected because of 
+fluctuations in share prices in the stock markets. However, NAVs of such funds are likely to be 
+less volatile compared to pure equity funds. 
+Money Market or Liquid Schemes 
+ 
+These schemes are also income schemes and their aim is to provide easy liquidity, preservation 
+of capital and moderate income. 
+These schemes invest exclusively in short-term instruments such as treasury bills, certificates of 
+deposit, commercial paper and inter -bank call money, government securities, etc. Returns on 
+these schemes fluctuate much less compared with other funds. These funds are appropriate for 
+corporate and individual investors as a means to park their surplus funds for short periods. 
+Gilt Funds 
+ 
+These funds invest exclusively in government securities. Government securities have no default 
+risk. NAVs of these schemes also fluctuate due to change in interest rates and other economic 
+factors as is the case with income or debt oriented schemes. 
+Index Funds 
+ 
+Index Funds replicate the portfolio of a particular index such as the BSE Sensitive index (Sensex), 
+NSE 50 index (Nifty), etc. These schemes invest in the securities in the same weightage 
+comprising of an index. NAVs of such  schemes would rise or fall in accordance with the rise or 
+fall in the index, though not exactly by the same percentage due to some factors known as 
+“tracking error” in technical terms. Necessary disclosures in this regard are made in the offer 
+document of  the mutual fund scheme.  The tracking error refers to the annualized standard 
+deviation of the difference in daily returns between the underlying index and the NAV of the Index. 
+For Index Fund in existence for a period of less than one year, the annualized standard deviation 
+to be calculated based on available data. 
+ 
+ 
+ 
+ 
+ 
+7) What are Sectoral fund and Thematic Funds? 
+ 
+Sectoral fund invests in stocks belonging to specific sector of the economy, in order to take 
+advantages within the said sector. The examples of sectoral funds are: banking funds, Information 
+Technology (IT), Pharmaceuticals etc. These funds are launched to get the benefit from growth 
+and performance of the particular sector. For example, technology sector would primarily invest 
+in tech companies only.  The returns in these funds are dependent on the performance of t he 
+respective sectors/industry. 
+Thematic funds invest in stocks across a specific theme. These funds focus on specific themes 
+or trends in the market. The themes can be based on economic trends, social changes, 
+technological advancements etc. Examples of these funds are MNC funds, PSU (public sector 
+units) funds, energy funds. Compared to sectoral fund thematic funds are more broad-based, as 
+they pick companies and sector s united by an idea. For instance, an infrastructure theme fund 
+will invest in cement, power, steel, among other sectors.   
+ 
+8) Are there any mutual fund schemes launched with the objective to provide tax benefits? 
+ 
+Yes, certain mutual fund schemes, known as Equity Linked Savings Schemes (ELSS) are eligible 
+for deduction under Section 80C of the Income Tax Act , 1961 (Old tax Regime). The provisions 
+relating to ELSS are governed by Equity Linked Saving Scheme, 2005 notified by Ministry of 
+Finance. These schemes are growth oriented and invest pre-dominantly in equities. Their growth, 
+opportunities and risks associated are like any equity -oriented scheme. Certain mutual fund 
+retirement schemes have also been notified for tax benefit under section 80 C of the Income Tax 
+Act, 1961. 
+  
+Investors should note that the provisions relating to income tax deductions are governed by 
+Income tax act, 1961 and subject to continuous changes/amendments.  
+ 
+ 
+9) What is a Fund of Funds (FoF) scheme? 
+ 
+A scheme that invests primarily in other schemes of the same mutual fund or other mutual funds 
+is known as a FoF scheme. A FoF scheme enables the investors to achieve greater diversification 
+through one scheme. It spreads risks across a greater universe. 
+ 
+10)  What are Exchange Traded Funds (ETFs)? 
+ 
+ETFs are mutual fund units that investors can buy or sell at the stock exchange. This is in contrast 
+to a normal mutual fund unit that an investor buys or sells from the mutual fund (directly or through 
+a distributor). In the ETF structure, the mutual fund  does not deal directly with investors or 
+distributors. Units are issued to a few designated large participants called Authorised Participants 
+(APs). The APs provide buy and sell quotes for the ETFs on the stock exchange, which enable 
+investors to buy and sell the ETFs at any given point of time when the stock markets are open for 
+trading. 
+ 
+ETFs therefore trade like stocks and experience price changes throughout the day as they are 
+bought and sold. Buying and selling ETFs requires the investor to have  demat and trading 
+account. 
+ 
+ 
+11) What is a capital protection-oriented scheme? 
+ 
+A capital protection-oriented scheme is typically a hybrid scheme that invests significantly in fixed-
+income securities and a part of its corpus in equities. These are close-ended schemes that come 
+in tenors of fixed maturity e.g. three to five years. 
+Structure of the scheme - Example 
+ 
+If the fund collects INR 100, it invests INR 80 in fixed-income securities and INR 20 in equities or 
+equity related instruments. The money is invested in such a way that the INR 80 portion is 
+expected to grow to become INR 100 in three years (assuming that the scheme has a maturity 
+period of three years). Thus, the aim is to preserve the INR 100 capital till maturity of the scheme. 
+Thus, the sch eme is oriented towards protection of capital and not with guaranteed returns. 
+Further, the orientation towards protection of capital originates from the portfolio structure of the 
+scheme and not from any bank guarantee or insurance cover. Investors are ne ither offered any 
+guaranteed/indicated returns nor any guarantee on repayment of capital by the scheme. 
+ 
+12) What is entry load and exit load in mutual funds? 
+An entry load can be defined as the amount or fee paid by an investor upon entering a scheme . 
+However, SEBI has abolished the practice of imposing entry loads on mutual funds.  Hence, 
+currently the entry load is no longer permitted. 
+Exit load is a fee or charge imposed on investors by a mutual fund when investors redeem /sell 
+their units before a specified period. The purpose of exit load is to discourage short-term trading 
+and to protect long -term investors from the potential adverse effects of short -term trading 
+activities.  
+The information about the load structure can be found in mutual fund’s offer document or scheme 
+information document (SID). Exit load is calculated as a percentage of NAV.   
+Suppose a mutual fund scheme charged exit load of 1% for redemption within 90 days from the 
+date of purchase.  Assume that you redeem 1000 units of a scheme before 90 days of purchase 
+and NAV per unit is INR 50. The exit load will be = 1% X 1000 (numbers of units) X INR 50 (NAV 
+per unit) = INR 500. This amount will be deducted from redemption proceeds and you will get 
+redemption proceeds of INR 49500.  
+ 
+13) Can a mutual fund impose fresh load or increase the exit load beyond the level mentioned 
+in the offer documents? 
+Mutual funds cannot increase the exit load beyond the level mentioned in the offer document. Any 
+change in the load will be applicable only to prospective investments and not to the original 
+investments. In case of imposition of fresh loads or increase in existing loads, the mutual funds 
+are required to amend their offer documents. 
+ 
+14) What is sale and repurchase/redemption price? 
+ 
+The price or NAV a unit holder is charged while investing in an open-ended scheme is called sale 
+price. 
+Repurchase or redemption price is the price or NAV at which an open-ended scheme purchases 
+or redeems its units from the investors/unitholders. It may include exit load, if applicable. 
+ 
+15) What is expense ratio? 
+ 
+Expense ratio represents the annual fund operating expenses of a scheme,  expressed as a 
+percentage of the fund’s daily net assets. Operating expenses of a scheme are administration, 
+management, advertising related expenses, etc. 
+An expense ratio of 1% per annum means that each year 1% of the fund ’s total assets will be 
+used to cover expenses. Information on expense ratio that may be applicable to a scheme is 
+mentioned in the offer document. Currently, in India, the expense ratio is fungible, i.e., there is no 
+limit on any particular type of allowed  expense as long as the total expense ratio is within the 
+prescribed limit. You may refer to regulation 52 of the SEBI (Mutual Funds) Regulations, 1996, 
+for limits on expense ratio. 
+ 
+16) What are the various methods available to investors for investing in a sc heme of a 
+mutual fund? 
+ 
+Investors can contact the agents and distributors of mutual funds who are spread all over the 
+country for necessary information and application forms. Investors must ensure that they invest 
+through Association of Mutual Funds in India (AMFI) registered distributors and that the distributor 
+has a valid AMFI Registration Number (ARN). 
+Investors can verify the registration status of a particular distributor whether he/she has been 
+suspended/terminated from doing mutual fund business at http://www.amfiindia.com/locate-the-
+nearest-financial-advisor. An employee of a corporate distributor is also required to have an 
+Employee Unique Identification Number (EUIN). 
+The distributors are required to disclose all the commissions (in the form of trail commission or 
+any other mode) payable to them for the different competing schemes of various mutual funds 
+from amongst which the scheme is being recommended to the investor. 
+Forms can be deposited with mutual funds  through the agents and distributors who provide such 
+services. These days, post offices and banks also distribute the units of mutual funds. However, 
+the investors may please note that the mutual fund schemes being marketed by banks and post 
+offices should not be taken as their own schemes and there is no assurance of returns is given 
+by them. The only role of banks and post offices is to help in distribution of mutual funds schemes 
+to the investors. 
+Investors should not be carried away by commission/gifts, if any, given by agents/distributors for 
+investing in a particular scheme.  
+Investors also have the option to invest directly with the mutual fund either by visiting the mutual 
+fund branch or online through mutual fund website. In addition, the investors can also invest 
+through MF central website/application. The details of MF Central may be accessed using 
+https://mfcentral.com and MFCentral  Mutual fund  App.  
+ 
+17) When will the investor get statement of account after investing in a mutual fund and 
+what is a consolidated account statement (CAS)? 
+ 
+Mutual funds are required to dispatch statements of accounts within five working days from the 
+date of closure of the initial subscription of the scheme or from the date of receipt of the request 
+from the investors/unitholders. Mutual fund shall issue units in dematerialized form within two 
+working days of the receipt of request from unit holder. 
+Also, mutual funds are required to send confirmation specifying the number of units allotted to the 
+investor by  way  of  email  and/or  SMS‟s  to  the  investor’s  registered  email  address  and/or 
+mobile number as soon as possible but not later than five working days from the date of closure 
+of the initial subscription list and/or from the date of receipt of the request from the  
+investors/unitholders. 
+ 
+Mutual funds are required to issue consolidated account statement  (CAS) for each calendar 
+month, on or before fifteenth day of the succeeding month, to the investors in whose folios 
+transaction(s) has/have taken place during that month. 
+A CAS every half yearly (September/ March) is issued, detailing holding at the end of the six 
+month, across all schemes of all mu tual funds, to all such investors in whose folios and demat 
+account no transaction has taken place during that period. 
+ 
+18) Do investors need to pay any commission to the distributor for selling mutual fund 
+schemes? 
+ 
+As stated above, no entry load can be charg ed for any mutual fund scheme. An investor can 
+choose to pay upfront commission directly to the distributor, based on his assessment of various 
+factors including the service rendered by the distributor. However, for investments made through 
+a distributor, commission is paid by mutual fund to the distributor such that the total expense ratio 
+for an investor is within the limits on expense ratio specified under regulation 52 of the SEBI 
+(Mutual Funds) Regulations, 1996. Hence, the cost borne by investors rema ins within the limit 
+prescribed under SEBI Regulations. 
+ 
+Further, a transaction charge of INR 150 and INR 100 per subscription of INR 10,000 and above 
+by a new and an existing investor, respectively , can be levied by distributor. This transaction 
+charge can be levied only if a distributor has opted in to levy transaction charge for that type of 
+mutual fund scheme. Further, the transaction charge, if any, is to be deducted by the mutual fund 
+from the subscription amount and paid to the distributor and the balance is to be invested.  
+ 
+19) How does an investor know how much commission the distributor is earning and what 
+is the TER being charged in a scheme? 
+The Consolidated Account Statement (CAS) issued to investors is required to provide information 
+in terms of total purchase value/cost of investment in each scheme. Further, CAS issued for the 
+half-year (ended September/March) also provides the amount of actual commission paid by 
+Mutual Funds to distributors (in absolute terms) during the half-year period against the concerned 
+investor’s total investments in each mutual fund scheme. The term “commission” here refers to 
+all direct monetary payments and other payments made in the form of gifts/rewards, trips, event 
+sponsorships etc. by mutual funds to distributors. Further, a mention may be made in such 
+CAS indicating that the commission disclosed is gross commission and does not exclude costs 
+incurred by distributors such as GST (wherever applicable, as per existing rates), operating 
+expenses, etc. 
+Such half-yearly CAS is issued to all mutual fund investors, excluding those investors who do not 
+have any holdings in mutual fund  schemes and where no commission against their investm ent 
+has been paid to distributors, during the concerned half-year period. 
+Such half-yearly CAS are also required to disclose the scheme’s average Total Expense Ratio (in 
+percentage terms) for the half year period for each scheme’s applicable plan (regular or direct or 
+both) where the concerned investor has actually invested. 
+ 
+20) Can a mutual fund change the asset allocation while deploying funds of investors? 
+Considering the market trends, any prudent fund manager can change the asset allocation, i.e., 
+he can invest higher or lower percentage of the fund in equity or debt instruments compared to 
+what is disclosed in the offer document. It can be done on a short term basis on defensive 
+considerations i.e. to protect the NAV. Hence, the fund managers are allowed certain flexibility in 
+altering the asset allocation considering the interest of the investors. In case the mutual fund 
+wants to change the asset allocation on a permanent basis, they are required to inform the unit 
+holders and give them option to exit the scheme at prevailing NAV without any exit load. 
+ 
+21) What is product labelling? 
+Product labelling has been introduced to help investors have an easy understanding of the kind of 
+product/scheme they are investing in and its suitability to them.  
+ 
+    All the mutual funds are required to label their schemes on the parameters as mentioned under: 
+a. Nature of scheme such as to create wealth or provide regular income in an indicative time 
+horizon (short/ medium/ long term). 
+ 
+b. A brief about the investment objective (in  a single line sentence) followed by kind of product 
+in which investor is investing (Equity/Debt). 
+ 
+c. The depiction of risk shall be through pictorial meter named "Riskometer" and this meter would 
+appropriately depict the level of risk in any specific scheme. Risk-o-meter shall have following 
+six levels of risk for mutual fund schemes: 
+ 
+ 
+ Low Risk 
+ Low to Moderate Risk 
+ Moderate Risk 
+ Moderately High Risk 
+ High Risk and 
+ Very High Risk 
+To know about the product labelling of the scheme investors should refer to the front page of 
+initial offering application forms, Key Information Memorandum (KIM) and Scheme Information 
+Documents (SIDs, Common application form – along with the information about the  scheme, 
+and Scheme advertisements.  
+However, investors should consult their financial advisers if they are not clear about the 
+suitability of the product. 
+
+ 
+22)  What is application supported by blocked amount (ASBA)? 
+ 
+ASBA is a facility provided by banks to investors in new fund offers (NFOs) of mutual funds. If 
+investors apply for an NFO via ASBA, their application amount gets blocked in their bank account. 
+While the amount stays in the account, it cannot be used until  the MF unit allotment is done. In 
+case of unsuccessful subscription i.e. getting subscription of less than 90% of the minimum 
+subscription amount by the mutual fund, the blocked amount is unblocked. For more information, 
+please refer to FAQs on ASBA avail able on SEBI website at 
+http://www.sebi.gov.in/cms/sebi_data/commondocs/asbaprocess1_p.pdf. 
+ 
+23) How to fill up the application form of a mutual fund scheme? 
+ 
+An investor must mention clearly his name, address, number of units applied for and such other 
+information as required in the application form. Know your Customer (KYC) documents need to 
+be submitted by a first time investor. 
+ 
+24) What is a direct plan? 
+ 
+SEBI has mandated mutual funds to compulsorily launch a direct plan for direct investments, i.e., 
+investments not routed through a distributor, from 01 January 2013 in addition to regular plan. 
+Such direct plan has a lower expense ratio compared to regular plan as there is no distribution 
+expenses and no commission is to be paid from such plans. The direct plan also has a separate 
+NAV. 
+Investment in direct plans can be made in lump sum, i.e. a onetime payment, or through a 
+Systematic Investment Plan (SIP). 
+ 
+25) What is a Systematic Investment Plan (SIP)? 
+ 
+A SIP allows investors to save and invest periodically over a longer period of time. It is a 
+convenient way to "invest as you earn" and offers the investor an opportunity to enter the market 
+regularly, thus averaging the acquisition cost of Units. Any investor/unitholder can avail of this 
+facility subject to certain terms and conditions contained in the Application Form. The 
+Fundamental Attributes and other terms and conditions regarding purchase/redemption, price and 
+related matters are the same as contained in the offer document. 
+For example 
+X decides to invest INR 1,000 per month for a year. When the market price of shares falls, X 
+benefits by purchasing more units; and is protected by purchasing less when the price rises as 
+explained below. 
+ 
+Date NAV Approx. number of units 
+the investor   will get at 
+INR 1000 
+1-Jan 10                 100 
+1-Feb 10.5 95.24 
+1-Mar 11 90.91 
+1-Apr 9.5 105.26 
+1-May                  9 111.11 
+1-Jun 11.5 86.96 
+1-Jul 11 90.91 
+1-Aug 10.5 95.24 
+1-Sep 10                 100 
+1-Oct 9.5 105.26 
+1-Nov 10                 100 
+1-Dec 9.5 105.26 
+  1186.15 
+ 
+Within one year, X has 1,186 units by investing just INR 1,000 every month at an average cost of 
+12000/1186.15 = 10.1170. This is as against 12,000/10 = 1,000 units or 12000/11.5 = 1043.5 
+units or 12000/9 = 1,333.3 units if X had invested lump sum on 1 Jan, 1 Jun or 1 May, respectively. 
+ 
+26) What is Systematic Transfer Plan (STP)? 
+ 
+STP is a facility allowing investors to transfer their invested amount on a periodic basis from one 
+scheme to another schemes launched by the same Mutual fund by giving a single instruction. 
+ 
+27) What is Systematic Withdrawal Plan (SWP)? 
+ 
+SWP allows the investor/unitholder to withdraw a specified sum of money each 
+month/quarter/half-yearly/yearly from his investments in the Schemes. SWP is ideal for investors 
+seeking a regular inflow of funds for their needs 
+ 
+28) What is Switching? 
+ 
+Switching is the proc ess of redeeming one fund and purchasing another within the same AMC.  
+This allows investors to reallocate their investments based on their changing financial goals and 
+market conditions.  
+ 
+29) Is it possible to invest in mutual fund schemes using cash? 
+ 
+Yes, cash investments up to INR 50,000 per investor, per mutual fund, per financial year can be 
+made in mutual funds. However, the limit of INR 50,000 would be an umbrella limit for investments 
+by an investor through both e -wallet and/or cash per mutual fund, per financial year.  Although 
+investment can be made in cash but repayment in form of redemptions, IDCW/dividend payments 
+can only be made through the banking channel. The pay-out bank details have to be provided in 
+the application form. 
+ 
+30) Can non-resident Indians (NRIs) invest in mutual funds? 
+ 
+Yes, non-resident Indians can also invest in mutual funds. Necessary details in this respect are 
+given in the offer documents of the schemes. 
+ 
+ 
+31) What should an investor look into an offer document? 
+ 
+Mutual fund investments are subject to market risks. An investor should carefully read all the 
+scheme related documents  before investing . An abridged offer document  known as  [Key 
+Information Memorandum (KIM)], which contains information  in concise form, is required to  be 
+given to the prospective investor by the mutual fund. The application form for subscription to a 
+scheme is an integral part of the offer document. SEBI has prescribed minimum disclosures in 
+the offer document. 
+ 
+32) What is IDCW (Dividend plan) in mutual funds? 
+SEBI on April 1, 2021  has renamed the dividend option in mutual funds to Income Distribution 
+cum Capital Withdrawal (IDCW). The change was made to clarify the difference between 
+dividends from stocks and mutual funds and to avoid confusion that the di vidend option was a 
+guaranteed bonus. 
+ 
+33) What is the t imeline for transfer of IDCW and redemption proceeds to 
+investors/unitholders:  
+ 
+The payment of IDCW (dividend) proceeds to the investors/unitholders shall be made within seven 
+working days from the record date*. The transfer of redemption or repurchase proceeds to the 
+unitholders shall be made within three working days from the date of redemption or repurchase and 
+five working days for schemes investing at least 80% of total assets in permissible ove rseas 
+investments. In case of failures to dispatch the redemption/repurchase proceeds within the 
+stipulated time period, the mutual fund is liable to pay interest as specified by SEBI from time to 
+time (15% p.a. at present) for the period of delay.  
+*Record date is the date which will be considered for the purpose of determining the eligibility of 
+investors whose names appear on the register of unit holders/investors for receiving IDCW. 
+ 
+34) Can a mutual fund change the nature of the scheme from the one specifi ed in the offer 
+document? 
+Yes, mutual funds can change the nature of their schemes  known as fundamental attributes 
+(structure, investment pattern , terms of issue  etc.), but they must follow certain procedures as 
+enumerated below: 
+ Send written communication to all unit holders about the proposed changes.  
+ The mutual fund must publish an advertisement in an English daily with nationwide 
+circulation and in a newspaper in the language of the region where the mutual fund's head 
+office is located  
+ The mutual fund must give unit holders a 30-day window to exit the scheme without paying 
+an exit load  
+ Seek prior approval from SEBI to change any fundamental attributes of the scheme. 
+ The mutual funds are also required to follow similar procedure  (seeking positive consent from 
+the investors) while converting the scheme from close-ended to open-ended scheme. 
+ 
+35) How will an investor come to know about the changes, if any, which may occur in the 
+mutual fund? 
+There may be changes from time to time in a mutual fund. The mutual funds are required to inform 
+any material changes to their investors/unit holders. Apart from it, many mutual funds send 
+newsletters to their investors. At present, Scheme Information Document (SID) is required to be 
+revised and updated within one month from the end of the half -year, based on the relevant data 
+and information as at the end of September and March re spectively. In the meantime, the 
+investors are informed about the material changes by way of addendum to the offer document. 
+ 
+ 
+36) How to know the performance of a mutual fund scheme? 
+ 
+The performance of a scheme is reflected in its NAV which is disclosed on daily basis. The NAVs 
+of mutual funds are required to be published on the web s ites of mutual funds. All mutual funds 
+are also required to put their NAVs on the web site of Association of Mutual Funds in India (AMFI) 
+www.amfiindia.com and thus the investors can access NAVs of all mutual fu nds at one place. 
+Also, each mutual fund is required to have a dashboard on its website providing performance and 
+key disclosures pertaining to each scheme managed by the mutual fund. 
+The mutual funds are also required to publish their performance in the form of half-yearly results 
+which also include their returns over a period of time i.e. last six months, 1 year, 3 years, 5 years 
+and since inception of schemes. Investors can also look into other details like percentage of 
+expenses of total assets as these have an effect on the return and other useful information in the 
+same half-yearly format. 
+The mutual funds are also required to send annual report or abridged annual report to the 
+unitholders at the end of the year. 
+Investors can compare the performance of their schemes with those of other mutual funds under 
+the same category. They can also compare the performance of equity oriented schemes with the 
+benchmarks like BSE Sensitive Index, Nifty, etc. 
+ 
+37) How to know where the mutual fund scheme has invested the money mobilized from 
+investors? 
+The mutual funds are required to disclose full portfolios of all of their schemes on a monthly basis 
+on their website and on the website of AMFI within 10 days from the close of each month/ half -
+year respectively in a user -friendly and downloadable spreads heet format. For debt schemes, 
+such disclosure is done on fortnightly basis within 5 days of every fortnight.    
+In case of unit holders whose e-mail addresses are registered, the Mutual Funds are required to 
+send via email both the monthly and half-yearly statement of scheme portfolio within 10 days from 
+the close of each month/ half -year respectively. Mutual Funds are also required to publish an 
+advertisement every half-year disclosing the hosting of the half -yearly statement of its schemes 
+portfolio on their respective website and on the website of AMFI and the modes such as SMS, 
+telephone, email or written request (letter) through which a unit holder can submit a request for a 
+physical or electronic copy of the statement of scheme portfolio. Such adverti sement to be 
+published in the all India edition of at least two daily newspapers, one each in English and Hindi. 
+Mutual Funds are required to provide a physical copy of the statement of its scheme portfolio, 
+without charging any cost, on specific request received from a unit holder. 
+The scheme portfolio shows investment made in each security i.e. equity, debentures, money 
+market instruments, government securities, etc. and their quantity, market value and % to NAV. 
+These portfolio statements are also requir ed to disclose illiquid securities in the portfolio, 
+investment made in rated and unrated debt securities, non-performing assets (NPAs), etc. 
+ 
+ 
+ 
+ 
+ 
+38) Is there any difference between investing in a mutual fund and in an initial public 
+offering (IPO) of a company? 
+Yes, there is a difference. Initial Public Offering (IPO) is offered by a company to directly raise 
+money for a single company as per the stated objective. In the case of mutual funds, the money 
+garnered is used for investing in eligible securities such as equity and debt instruments of basket 
+of companies, money market instruments, gold, etc.  
+ 
+39) Where can an investor look for information on mutual funds? 
+ 
+Almost all the mutual funds have their own w eb sites, where details of NAVs ,SIDs ,KIMs and 
+portfolio of the schemes etc. are readily available. Investors can also access the NAVs of all 
+mutual funds at the web site of Association of mutual funds in India (AMFI) www.amfiindia.com. 
+ 
+Investors can log on to the web site of SEBI www.sebi.gov.in and go to “Mutual Funds” section 
+for information on SEBI regulations and guidelines, data on mutual funds, draft offer documents 
+filed by mutual funds, etc. Also, in the annual reports of SEBI available on the web site, information 
+on mutual funds is given. 
+There are a number of other web sites which give a lot of information of various schemes of 
+mutual funds including returns over a period of time. Many  newspapers also publish useful 
+information on mutual funds on daily and weekly basis. 
+Investors may also approach their financial advisors to guide them in this regard. 
+ 
+40) How can an investor view unclaimed IDCW / Redemption amount lying in their folios, if 
+any, with a mutual fund and process to claim it? 
+Investor can find the details of unclaimed amounts on respective website of mutual fund upon key 
+in the necessary information i.e. folio number, date of birth and registered mobile number etc.  
+ 
+To know the process of claiming unclaimed IDCW/Redemption amount, investor should refer to 
+the concerned website of the mutual fund.  
+The information on unclaimed amount along with its prevailing value (based on income earned 
+on deployment of such unclaimed amount) is separately disclosed to investors through the 
+periodic statement of accounts/CAS sent to the investors. 
+ 
+41) Can an investor appoint a nominee for his investment in units of a mutual fund? 
+ 
+Yes. Regulation 29A of SEBI (Mutual Fund) Regulations, 1996, notifies that the mutual fund shall 
+provide nomination facility to the unit holders to nominate  a  person  in whose favour the units 
+shall be transmitted in the event of death of the unit holder. An investor, investing in mutual fund  
+units  has to provide nomination or opt out  of  nomination  through  physical  or  online mode. 
+The requirement of nomination is optional for jointly held folios.  A person may nominate upto 
+three persons and clearly indicate the percentage of allocation/share in favour of ea ch of the 
+nominee against their names, and such allocation/share shall be in whole numbers without any 
+decimals. Further an individual may appoint different nominees for different schemes. Non 
+individuals including society, trust, body corporate, partnersh ip firm, Karta of Hindu Undivided 
+Family, holder of Power of Attorney cannot nominate.  
+ 
+42) If mutual fund scheme is wound up, what happens to money invested? 
+ 
+In case of winding up of a scheme, the proceeds of sale realised by disposing of the assets of the 
+scheme after adjustment of liabilities   as are due and payable under the scheme and after making 
+appropriate provision for meeting the expenses connected with such winding up, the balance shall 
+be paid to the investors/unitholders in proportion to their respective interest in the assets of the 
+scheme. Unitholders are entitled to receive a report on winding up from the mutual funds which 
+gives all necessary details.  
+ 
+43) Where can investors lodge their complaints? 
+ 
+The grievance redressal and dispute mechanism is mentioned in the offer documents and website 
+of the respective mutual fund. Investors should approach the concerned Mutual Fund / Investor 
+Service Centre of the Mutual Fund for resolution of their complaints. Details regarding the name 
+address, and phone number of the investor relation officer whom should be approach in case of 
+any query, complaints etc. can be found in the offer document/SAI of the respective mutual fund. 
+In case of non redressal of the complaint, the investors can approach SEBI for redressing their 
+complaints. Investor may lodge their complaints through SCORES (SEBI Complaints Redress 
+System – https://scores.sebi.gov.in) or by sending their complaints on the address given below:  
+Securities and Exchange Board of India 
+Office of Investor Assistance and Education,  
+Securities and Exchange Board of India, 
+SEBI Bhavan II 
+PN-C7, G Block BKC,  
+Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051 
+Investors can lodge their complaint through SEBI SCORES mobile app also. 
+ 
+ 
+ 
+ 

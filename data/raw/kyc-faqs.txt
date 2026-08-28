@@ -1,0 +1,52 @@
+KYC guidelines & FAQs - Growwmf
+Skip to main content
+Guidelines & FAQs on the KYC (Know Your Customer)
+The Securities and Exchange Board of India (SEBI) has implemented new guidelines on the KYC (Know Your Customer) process for investments in the securities market.
+This is a summary of the new regulations and what investors need to do in order to continue investing in mutual funds.
+KYC: What is it?
+The KYC procedure is used to confirm the identity of investors in an effort to prevent cases of fraud, money laundering, and other illegal activities. KYC establishes an investor's identity & address through relevant supporting documents such as prescribed photo id (e.g., PAN card) and address proof and In-Person Verification (IPV). KYC compliance is mandatory under the Prevention of Money Laundering Act, 2002 and Rules framed there under, read with the SEBI Master Circular on Anti Money Laundering (AML) Standards/ Combating the Financing of Terrorism (CFT) /Obligations of Securities Market Intermediaries.
+What are the new norms?
+To streamline the Know Your Customer process for investments in the securities market, investors are now required to mandatorily do their KYC with Officially Valid Documents (OVD) to continue investing. KYCs done with deemed officially valid documents will need to be updated. Deemed OVDs such as bank statement, utility bills will no longer be sufficient.
+Since November 2022 KRAs are required to perform extended independent verification, re-verification of KYC records on following additional aspects in a phase wise manner.
+Validation of PAN, its operational status from Income Tax database including PAN-Aadhaar linking status.
+Source validation of KYC data (Name and address) from the Aadhaar records wherever Aadhaar is used as a Proof of Identity or Address (POI / POA). This is done using the digitally signed data provided by UIDAI / DigiLocker to the investor on his / her request.
+Verification of Email and Mobile as maintained in KYC records of the investor by sending Email/SMS intimation.
+What are officially valid documents?
+Passport
+Driver's license
+Aadhar Card
+Voter's Identity Card issued by Election Commission of India
+What does this mean for investors?
+Investors need to check their KYC status and submit documents again if required, to ensure their KYC status is “Validated”.
+How do I check my KYC status?
+To find out the status of your KYC, you can visit the website of any KYC Registration Agency or KRA, such as CVL KRA, NDML KRA, CAMS KRA or Karvy KRA.
+What are the various KYC statuses and what do they mean?
+Depending on the document and contact details you had submitted when you did your KYC, your status may be:
+KYC Validated:
+This is likely because you had done your KYC with your Aadhaar card. You can continue transacting in existing and new mutual fund schemes with ease.
+KYC Registered or Verified:
+Transactions made prior to March 31, 2024, will remain unchanged. Investors who have mutual fund schemes with fund companies can carry on doing business with them.
+Investors would need to provide a new copy of their Aadhaar card with their KYC application for transactions with new asset management companies. Additionally, they can use their individual KRAs to verify their Aadhaar details online.
+Investors won't have to go through the KYC procedure again for any future transactions once the Aadhaar KYC process is completed and verified.
+For KYCs done through non-Aadhaar OVDs, re-KYCs will need to be done each time the investor applies for a scheme in a new AMC.
+KYC On-Hold:
+All financial transactions, including in existing schemes, will be restricted. Investors will need to re-do the KYC process by submitting any of the OVDs to the nearest AMC/or Registrar and Transfer Agent branches. They can also download the re-KYC form from the website of AMCs or intermediaries.
+KYC Status
+Description
+Action required by the investor
+KYC validated
+The records which meet all the above verifications / the documents and KYC information submitted by the investor have been authenticated with the database of the issuing authority. Currently, only PAN and Aadhaar can be validated directly from the issuing database. Email and/or Mobile are also validated.
+No impact or action required. Investor can seamlessly transact in securities market without the need for resubmission of KYC documents.
+KYC Registered
+This denotes that the KYC documents / information provided by the investor cannot be directly verified with the issuing authority and KRA verification is based on documents provided, but Email and/or Mobile are validated.
+No impact to the investor with his / her existing intermediaries and they can seamlessly transact including continuity of the existing SIPs registered with MFs already.
+If the investor wishes to open a new account or a new folio with a new MF / SEBI Registered Intermediary, fresh set of KYC documents to be collected afresh to onboard the investor.
+These investors can undergo a re-KYC process by submitting PAN / Aadhaar have the KYC status updated as Validated, to ensure uninterrupted investment across various mutual fund houses or for opening a new broking or demat account.
+It is mentioned that based on type of OVD submitted, KYC record is NOT placed into “On Hold” category.
+KYC Rejected/On-Hold
+There are KYC records where above verification could not be successful, primarily PAN-Aadhaar Seeding not done/failed or Email and/or Mobile validation has failed.
+Complete 'PAN-Aadhaar Seeding' in Income Tax records to make his / her PAN operational. ITD has issued detailed guidelines on this process. Share his / her updated Email / Mobile with any of his / her intermediaries (DP / Broker / MF AMC) to update the same in their records and lodge modification request with KRA; Once KRA receives the latest information it will verify/validate the same and update the KYC record status accordingly.
+Please note:
+For PAN-exempt records, other attributes such as name, address, mobile number and email address shall be verified by KRAs. The KYC status will be tagged as KYC registered and re-KYC needs to be done for each transaction in a new AMC.
+For more details, refer to the attached file -
+FAQs on the KYC (Know Your Customer)

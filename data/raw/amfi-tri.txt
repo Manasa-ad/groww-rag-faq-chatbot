@@ -1,0 +1,29 @@
+What is the Total Return Index (TRI) in a Mutual Fund? | AMFI
+Skip to main content
+What is the Total Return Index (TRI) in a Mutual Fund?
+More about Mutual Funds
+Types of Mutual Funds
+54 seconds read
+The Total Return Index, (TRI), plays a crucial role in evaluating equity indexes.
+Total Return variant of an Index (TRI) takes into account all dividends/ interest payments that are generated from the basket of constituents that make up the index in addition to the capital gains. Hence, TRI is more appropriate as a benchmark to compare the performance of mutual fund schemes.
+The major characteristics of TRI are:
+SEBI Mandate:
+In 2018, SEBI mandated the use of TRI for evaluating the performance of the mutual fund. Now, mutual funds must disclose their performance based on the Total Return Index rather than the Price Return Index (The previous method), which only considers capital appreciation. This compliance not only enhances investors' trust but also upholds industry standards.
+Incorporates Dividends:
+This income includes stock dividends, interest from bonds, and other income sources within the Benchmark Index.
+Reinvestment:
+TRI assumes that any income generated, such as dividends, is reinvested into the Index.
+Investor Transparency:
+It provides a realistic and transparent view of the fund's performance. It functions as a guiding reference to assess the scheme's growth and performance across time.
+Long-Term Goals:
+TRI is ideal for evaluating funds over long periods.
+Disclaimer
+Mutual Fund investments are subject to market risks, read all scheme related documents carefully.
+Read More
+I Am Ready to Invest
+Related Articles
+More details are loading
+Load More
+Calculators
+More details are loading
+Load More

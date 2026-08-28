@@ -1,0 +1,32 @@
+ 
+Adoption of Standardised, Validated and Exclusive UPI IDs for Payment Collection by SEBI 
+Registered Intermediaries from Investors 
+ 
+Ref: SEBI Circular no. SEBI/HO/DEPA-II/DEPA-II_SRG/P/CIR/2025/86 dated June 11, 2025 
+ 
+Frequently Asked Questions (FAQs) For Investor 
+ 
+Q. Is it compulsory for the investors to use the new handle only?  
+Ans. The investors can choose their preferred mode of payment, such as UPI, IMPS, NEFT, RTGS, or 
+Cheques. If an investor opts to use UPI for the payment to registered intermediaries, then they have to do so 
+only using the new UPI IDs allotted to registered intermediaries.  
+ 
+Q. What should I check while making payment using the new UPI IDs/ QR Code?  
+Ans. Investors need to keep following things into consideration:  
+1. The UPI ID should properly show the name of the intermediary, followed by the short abbreviation of 
+their category for example “mf” for Mutual Funds to the left of the “@” character.  
+2. On the right side of the “@”, the new and exclusive handle “ @valid” should be present, followed by the 
+bank name.  
+3. On the confirmation screen, the app should show a white thumbs-up icon inside a green triangle.  
+4. The QR code generated using the utility will have a white thumbs -up icon inside a green triangle. It will 
+also display the UPI ID just below the QR code.  
+ 
+Q. Do investors also need to obtain new UPI handles to transact in the securities market?  
+Ans. No, the new UPI IDs are only for intermediaries to obtain and investors can continue to use their existing 
+UPI IDs.  
+ 
+Q. Whom to approach if my transaction/ payment fails with the new UPI ID? 
+Ans. The secure validated UPI ID of intermediaries will use the same banking channel as the earlier generic 
+UPI handles. In case of any technical difficulty, investors are requested to approach their respective bank. 
+ 
+  

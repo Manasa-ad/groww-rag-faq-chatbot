@@ -1,0 +1,50 @@
+{
+  "Large Cap": {
+    "category": "Large Cap Equity",
+    "expense_ratio": "1.27% (inclusive of GST)",
+    "exit_load": "1% if redeemed or switched out within 7 days from the date of allotment; Nil after 7 days",
+    "min_sip": "₹500",
+    "min_lumpsum": "₹500",
+    "lock_in": null,
+    "riskometer": "Very High",
+    "benchmark": "Nifty 100 TRI (additional benchmark: BSE Sensex TRI)",
+    "source_url": "https://www.growwmf.in/mutual-funds/groww-large-cap-fund-direct-growth",
+    "fetched_on": "2026-08-27"
+  },
+  "Multicap": {
+    "category": "Multi Cap Equity",
+    "expense_ratio": null,
+    "exit_load": "1% if redeemed or switched out within 1 year from the date of allotment; Nil after 1 year",
+    "min_sip": "₹500",
+    "min_lumpsum": "₹500",
+    "lock_in": null,
+    "riskometer": "Very High",
+    "benchmark": "Nifty 50 TRI (additional benchmark: NIFTY 500 Multicap 50:25:25 TRI)",
+    "source_url": "https://www.growwmf.in/mutual-funds/groww-multicap-fund-direct-growth",
+    "fetched_on": "2026-08-27"
+  },
+  "ELSS Tax Saver": {
+    "category": "ELSS (Tax Saver)",
+    "expense_ratio": "0.50% (inclusive of GST)",
+    "exit_load": "Nil",
+    "min_sip": "₹500",
+    "min_lumpsum": "₹500",
+    "lock_in": "3 years",
+    "riskometer": "Very High",
+    "benchmark": "Nifty 50 TRI (additional benchmark: Nifty 500 TRI)",
+    "source_url": "https://www.growwmf.in/mutual-funds/groww-elss-tax-saver-fund-direct-growth",
+    "fetched_on": "2026-08-27"
+  },
+  "Liquid": {
+    "category": "Liquid / Debt",
+    "expense_ratio": "0.22% (inclusive of GST)",
+    "exit_load": "Tiered: 0.007% if exited within 1 day of purchase, decreasing daily, to Nil after 7 days",
+    "min_sip": "₹500",
+    "min_lumpsum": "₹500",
+    "lock_in": null,
+    "riskometer": "Moderate",
+    "benchmark": "CRISIL Liquid Debt A-I Index (additional benchmark: Crisil 1 Yr T-Bill Index)",
+    "source_url": "https://www.growwmf.in/mutual-funds/groww-liquid-fund-direct-growth",
+    "fetched_on": "2026-08-27"
+  }
+}
