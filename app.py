@@ -254,4 +254,3 @@ for q, a in reversed(st.session_state.history):
         st.markdown(a)
 
 st.divider()
-st.caption(DISCLAIMER)
