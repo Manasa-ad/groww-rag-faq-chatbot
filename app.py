@@ -14,7 +14,7 @@ import streamlit as st
 
 ROOT = Path(__file__).parent
 
-DISCLAIMER = "Facts-only. No investment advice. I don't store anything you type."
+DISCLAIMER = "Facts-only. No investment advice."
 
 EDUCATIONAL_LINK = "https://www.mutualfundssahihai.com/en/what-are-expenses-incurred-mutual-fund-scheme"
 CORPUS_REFRESH_DATE = "2026-08-27"
